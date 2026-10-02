@@ -10,7 +10,7 @@
 
 ## My contribution
 
-**Alexandru Lungu — Full-Stack Developer and Digital Marketing, February 2024 – present.**
+**Alexandru Lungu — Full-Stack Engineer and Digital Marketing, February 2024 – present.**
 
 I was the clinic's sole technical and marketing resource: I rebuilt the site from a hosted CMS into a React application, designed the data model and the Firestore rules, built the admin tools, ran the paid social campaigns and produced the content for them, migrated the organisation to Google Workspace with Cloudflare DNS, and automated recurring email with Google Apps Script. The clinic owns its brand, its services and its client relationships.
 
